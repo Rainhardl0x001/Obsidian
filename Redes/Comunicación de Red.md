@@ -3,7 +3,6 @@ tema: "Fundamentos de Redes"
 tipo: concepto
 creado: 2026-09-24
 ---
-
 ## **¿Qué es una comunicación de red?**
 
 Es el **proceso** mediante el cual dos o más **[[Dispositivos de una Red|dispositivos]]** intercambian **[[Datos]]** a través de una [[Redes|red]], siguiendo reglas y [[Estándares y Protocolos|protocolos]] que garantizan que la [[Información]] se transmita de forma correcta y ordenada. Este proceso se puede clasificar según varios criterios.
@@ -38,7 +37,7 @@ Es el **proceso** mediante el cual dos o más **[[Dispositivos de una Red|dispos
 
 ### Banda base vs Banda ancha (cómo se usa el ancho de banda del medio)
 
-- **Banda base (*baseband*)**: el medio transmite **una sola señal digital a la vez**, usando **todo** el ancho de banda disponible para ese único canal. Es el método que usa [[Ethernet]] sobre [[par trenzado (UTP)]].
+- **Banda base (*baseband*)**: el medio transmite **una sola señal digital a la vez**, usando **todo** el ancho de banda disponible para ese único canal. Es el método que usa [[Ethernet]] sobre [[Par Trenzado (UTP)]].
 - **Banda ancha (*broadband*)**: el ancho de banda del medio se **divide en múltiples canales o frecuencias** mediante modulación, permitiendo transmitir **varias señales distintas simultáneamente** sobre el mismo cable.
 
 > [!important]- Por qué tu Internet por cable se llama "banda ancha"

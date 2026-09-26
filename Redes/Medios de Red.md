@@ -11,8 +11,8 @@ Los **[[Medios de Red|medios de red]]** son el **canal** por el cual viajan las 
 - **Medios guiados**: La señal viaja confinada dentro de un **medio físico** (un cable). Es la base de lo que se conoce como conectividad **alámbrica**.
 - **Medios no guiados**: La señal se propaga libremente por el **aire**, sin un canal físico que la contenga. Es la base de la conectividad **inalámbrica**.
 ### Conectividad Alámbrica e Inalámbrica 
-- **Conectividad alámbrica**: Es la comunicación que se realiza a través de un **cable físico** (un medio guiado), por donde viajan los [[Datos|datos]] en forma de [[señales eléctricas]] o de [[luz]]. Algunos [[Medios de Red|medios]] comunes son el **[[|par trenzado (UTP)]]**, el **[[Cable Coaxial]]** y la **[[fibra óptica]]**.
-- **Conectividad inalámbrica**: Es la comunicación que se realiza **sin cables** (un medio no guiado), utilizando **[[ondas electromagnéticas]]** como medio de transmisión ([[radiofrecuencia]], [[infrarrojo]], [[microondas]], etc). Las [[tecnologías]] más comunes son **[[Wi-Fi]]**, **[[Bluetooth]]**, **[[redes celulares (3G/4G/5G)]]** e **[[infrarrojo]]**.
+- **Conectividad alámbrica**: Es la comunicación que se realiza a través de un **cable físico** (un medio guiado), por donde viajan los [[Datos|datos]] en forma de [[señales eléctricas]] o de [[luz]]. Algunos [[Medios de Red|medios]] comunes son el **[[|par trenzado (UTP)]]**, el **[[Cable Coaxial]]** y la **[[Fibra Óptica]]**.
+- **Conectividad inalámbrica**: Es la comunicación que se realiza **sin cables** (un medio no guiado), utilizando **[[Ondas Electromagnéticas]]** como medio de transmisión ([[radiofrecuencia]], [[infrarrojo]], [[microondas]], etc). Las [[tecnologías]] más comunes son **[[Wi-Fi]]**, **[[Bluetooth]]**, **[[redes celulares (3G/4G/5G)]]** e **[[infrarrojo]]**.
 
 ### Comparación entre Alámbrica (guiada) e Inalámbrica (no guiada)
 

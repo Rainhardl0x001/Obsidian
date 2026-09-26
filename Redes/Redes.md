@@ -1,6 +1,6 @@
 ## ¿Qué es una Red?
 
-En [[Informática]] una [[Redes|Red]] es la [[interconexión]] de un número determinado de [[Dispositivos de una Red|dispositivos]] mediante [[Medios de Red|medios alámbricos]] o [[Medios de Red|inalámbricos]]. Esto a través de [[señales eléctricas]] (a través de medios de cobre), [[señales ópticas]] (a través de medios de fibra óptica) o [[señales inalámbricas]] (a través de [[ondas infrarrojas]], [[ondas electromagnéticas]], [[microondas]], etc.), estos envían y reciben [[Información]] en forma de [[paquetes de datos]].
+En [[Informática]] una [[Redes|Red]] es la [[interconexión]] de un número determinado de [[Dispositivos de una Red|dispositivos]] mediante [[Medios de Red|medios alámbricos]] o [[Medios de Red|inalámbricos]]. Esto a través de [[señales eléctricas]] (a través de medios de cobre), [[señales ópticas]] (a través de medios de fibra óptica) o [[señales inalámbricas]] (a través de [[ondas infrarrojas]], [[Ondas Electromagnéticas]], [[microondas]], etc.), estos envían y reciben [[Información]] en forma de [[paquetes de datos]].
 
 ![[Pasted image 20260923134835.png]]
 

@@ -19,5 +19,5 @@
 - **[[P2P|P2P (Peer to Peer)]]**: Cada [[Dispositivos de una Red|dispositivo]] puede actuar como [[Cliente|Cliente]] y [[Servidor]] a la vez, según ya viste en tu nota anterior.
 ####  **Por el medio de transmisión:**
 
-- **[[Cableadas]]**: usan cables físicos ([[UTP]], [[fibra óptica]]).
+- **[[Cableadas]]**: usan cables físicos ([[UTP]], [[Fibra Óptica]]).
 - **[[Inalámbricas]]**: usan ondas ([[wifi]], [[bluetooth]], [[redes celulares]]).

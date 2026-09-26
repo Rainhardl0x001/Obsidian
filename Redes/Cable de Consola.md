@@ -7,7 +7,7 @@ creado: 2026-09-24
 Un **cable de consola** es el [[Medios de Red|cable físico]] que [[Conexión|conecta]] una [[computadora]] directamente al **[[puerto de consola]]** de un [[Enrutador (Router)|router]] o [[Switch|switch]], permitiendo acceder a su **[[CLI|CLI]]** para configurarlo por primera vez — antes de que el equipo tenga cualquier [[Dirección IP|Dirección IP]] o [[Conexión|conexión]] de [[Redes|red]] funcional.
 
 ### Por qué es necesario
-Un equipo de [[Redes|red]] **nuevo, sin configurar**, no tiene [[Dirección IP|Dirección IP]] ni acceso remoto habilitado ([[SSH]]), por lo que no se le puede acceder a través de la [[Redes|red]]. El cable de consola resuelve exactamente ese problema: Es una **[[Conexión Serial (DCE y DTE)|conexión serial]]** directa, que no depende de ninguna configuración previa del equipo.
+Un equipo de [[Redes|red]] **nuevo, sin configurar**, no tiene [[Dirección IP|Dirección IP]] ni acceso remoto habilitado ([[SSH (Secure Shell)]]), por lo que no se le puede acceder a través de la [[Redes|red]]. El cable de consola resuelve exactamente ese problema: Es una **[[Conexión Serial (DCE y DTE)|conexión serial]]** directa, que no depende de ninguna configuración previa del equipo.
 
 ### Tipos de cable de consola
 - **[[Rollover cable]]**: El tipo clásico, con **[[conectores RJ-45]]** en ambos extremos, pero con los [[pines]] "invertidos" (el pin 1 de un extremo corresponde al pin 8 del otro) — de ahí su nombre. Se conecta al [[puerto RJ-45]] de [[consola]] del equipo y, del otro lado, a un [[adaptador RJ-45-a-USB]] o [[RJ-45-a-DB9]] para [[Conexión|conectarse]] a la [[computadora]].
